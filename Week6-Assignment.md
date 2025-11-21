@@ -7,6 +7,7 @@ Implement comprehensive testing strategies for a MERN stack application, includi
 
 ### Task 1: Setting Up Testing Environment
 - Configure Jest as the testing framework for both client and server
+
 - Set up testing utilities for React components (React Testing Library)
 - Configure Supertest for API endpoint testing
 - Create a separate test database for integration tests
